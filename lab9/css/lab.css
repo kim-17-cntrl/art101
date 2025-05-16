@@ -1,0 +1,22 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: #DDD8C4;
+  }
+
+#challenge {
+    display: none;
+}
+#problem {
+    display: none;
+}
+#results {
+    display: none;
+}
+.special {
+    background-color: lightblue;
+    border: dotted 20px forestgreen;
+    color: darkred;
+    font-weight: bold;
+}
